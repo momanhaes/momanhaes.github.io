@@ -10526,6 +10526,7 @@ p.lead {
 
 .dev-icons {
   font-size: 3rem;
+  cursor: default;
 }
 
 section.resume-section {
